@@ -1,6 +1,6 @@
 # 🧙‍♀️ Istari.AI 🧙‍♂️
 
-Better data for better decisions
+Neartime economic data for better decisions
 
 
 <!--
