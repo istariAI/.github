@@ -1,6 +1,6 @@
 # 🧙‍♀️ Istari.AI 🧙‍♂️
 
-Real-time economic data for better decisions
+Monitor aour economy
 
 
 <!--
