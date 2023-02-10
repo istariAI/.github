@@ -1,6 +1,6 @@
 # 🧙‍♀️ Istari.AI 🧙‍♂️
 
-Monitor aour economy
+Monitor your economy
 
 
 <!--
