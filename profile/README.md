@@ -2,6 +2,10 @@
 
 Monitor your economy
 
+------
+
+![alt text](webai_eu_sample.jpeg "Title")
+
 
 <!--
 
