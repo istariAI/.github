@@ -1,5 +1,5 @@
 {
-    "name": "Greet new users",
-    "description": "When a new user opens an issue or pr they will get a greeting.",
-    "iconName": "greetings"
+    "name": "Backup Repository to S3",
+    "description": "Back up repository every day to S3.",
+    "iconName": "cloud-backup-icon"
 }
