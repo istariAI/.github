@@ -1,6 +1,6 @@
 # 🧙‍♀️ Istari.AI 🧙‍♂️
 
-Monitor your economy
+Trusted market intelligence. 
 
 ------
 
