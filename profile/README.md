@@ -1,4 +1,4 @@
-# 🧙‍♀️ Istari.AI 🧙‍♂️
+# 🧙‍♀️ ISTARI.AI 🧙‍♂️
 
 Trusted market intelligence. 
 
